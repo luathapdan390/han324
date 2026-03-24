@@ -1,0 +1,5 @@
+{
+  "name": "GVP High School Unit 7 Test",
+  "description": "A practice test application for Go Vap High School students with archetype selection and automated reporting.",
+  "requestFramePermissions": []
+}
